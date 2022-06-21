@@ -1,4 +1,3 @@
-# My-repository
 # README
 
 ## Contenido
@@ -31,3 +30,4 @@ Previsualizar este código en: [https://markdownlivepreview.com/](https://markdo
 Yo mismo.
 Foto: ![Esta es mi foto.](perro.jpg "Esta es mi foto.")
 Contactar a: [yo.mismo@dominio.edu](yo.mismo@dominio.edu)
+
