@@ -1,0 +1,44 @@
+{
+	"texto": {
+		"cabecera": {
+			"de_archivo": "/tmp/zbMmNLJD2G",
+			"etiquetado_por": "Grampal (c)"
+		},
+		"contenido": {
+			"term": [{
+					"id": 5000,
+					"w": {
+						"cat": "N",
+						"lem": "COMORBILIDAD",
+						"gen": "fem",
+						"num": "sing",
+						"multex": "",
+						"text": "comorbilidad"
+					}
+				},
+				{
+					"id": 5001,
+					"w": {
+						"cat": "N",
+						"lem": "COMPAÑÍA",
+						"gen": "fem",
+						"num": "sing",
+						"multex": "NCfs",
+						"text": "compañía"
+					}
+				},
+				{
+					"id": 5002,
+					"w": {
+						"cat": "N",
+						"lem": "CORAZÓN",
+						"gen": "masc",
+						"num": "sing",
+						"multex": "NCms",
+						"text": "corazón"
+					}
+				}
+			]
+		}
+	}
+}
